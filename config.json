@@ -1,0 +1,37 @@
+{
+    "bitaxe": {
+        "ip_address": "10.0.0.175",
+        "port": 80,
+        "poll_interval": 5,
+        "timeout": 10
+    },
+    "database": {
+        "file": "bitaxe_data.db",
+        "retention_days": 30
+    },
+    "notifications": {
+        "email": {
+            "enabled": true,
+            "smtp_server": "smtp.gmail.com",
+            "smtp_port": 587,
+            "sender_email": "itsdruthekid@gmail.com",
+            "sender_password": "Danidru19!",
+            "recipient_email": "itsdruthekid@gmail.com",
+            "alerts": {
+                "temperature_threshold": 80,
+                "hashrate_drop_percent": 20,
+                "optimal_settings_found": true
+            }
+        }
+    },
+    "optimization": {
+        "auto_optimize": false,
+        "target_temperature": 75,
+        "min_hashrate_improvement": 5
+    },
+    "gui": {
+        "theme": "light",
+        "chart_update_interval": 2,
+        "data_points_display": 100
+    }
+}
