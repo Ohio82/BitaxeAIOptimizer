@@ -14,9 +14,9 @@
             "enabled": true,
             "smtp_server": "smtp.gmail.com",
             "smtp_port": 587,
-            "sender_email": "itsdruthekid@gmail.com",
-            "sender_password": "Danidru19!",
-            "recipient_email": "itsdruthekid@gmail.com",
+            "sender_email": "YOUREMAIL",
+            "sender_password": "YOURPASSWORD",
+            "recipient_email": "YOUREMAIL",
             "alerts": {
                 "temperature_threshold": 80,
                 "hashrate_drop_percent": 20,
