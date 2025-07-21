@@ -1,6 +1,6 @@
 {
     "bitaxe": {
-        "ip_address": "10.0.0.175",
+        "ip_address": "10.0.0.98",
         "port": 80,
         "poll_interval": 5,
         "timeout": 10
@@ -14,9 +14,9 @@
             "enabled": true,
             "smtp_server": "smtp.gmail.com",
             "smtp_port": 587,
-            "sender_email": "YOUREMAIL",
-            "sender_password": "YOURPASSWORD",
-            "recipient_email": "YOUREMAIL",
+            "sender_email": "afreeman50@ivytech.edu",
+            "sender_password": "Danidru25",
+            "recipient_email": "afreeman50@ivytech.edu",
             "alerts": {
                 "temperature_threshold": 80,
                 "hashrate_drop_percent": 20,

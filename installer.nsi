@@ -1,7 +1,7 @@
 !define APP_NAME "Bitaxe Monitor"
 !define APP_VERSION "1.0.0"
 !define APP_PUBLISHER "Bitaxe Monitor"
-!define APP_URL "https://github.com/your-repo/bitaxe-monitor"
+!define APP_URL "https://github.com/Ohio82/BitaxeAIOptimizer"
 !define APP_EXE "BitaxeMonitor.exe"
 
 ; Main Install settings

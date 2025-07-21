@@ -528,3 +528,1245 @@
 2025-07-20 14:26:23,242 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
 2025-07-20 14:26:23,242 - WARNING - Failed to get status from Bitaxe (attempt 77)
 2025-07-20 14:26:24,211 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c59a4f8sm1424772173.0 - gsmtp')
+2025-07-20 14:26:29,310 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:26:29,310 - WARNING - Failed to get status from Bitaxe (attempt 78)
+2025-07-20 14:26:30,219 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca0503fsm1439567173.105 - gsmtp')
+2025-07-20 14:26:35,304 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:26:35,304 - WARNING - Failed to get status from Bitaxe (attempt 79)
+2025-07-20 14:26:36,263 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29b1e00a5sm16696375ab.55 - gsmtp')
+2025-07-20 14:26:41,433 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:26:41,433 - WARNING - Failed to get status from Bitaxe (attempt 80)
+2025-07-20 14:26:42,408 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826eb2fsm17646075ab.41 - gsmtp')
+2025-07-20 14:26:47,485 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:26:47,486 - WARNING - Failed to get status from Bitaxe (attempt 81)
+2025-07-20 14:26:48,742 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2981357d5sm16821295ab.7 - gsmtp')
+2025-07-20 14:26:53,820 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:26:53,821 - WARNING - Failed to get status from Bitaxe (attempt 82)
+2025-07-20 14:26:54,790 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c78890bsm1437423173.23 - gsmtp')
+2025-07-20 14:26:59,880 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:26:59,881 - WARNING - Failed to get status from Bitaxe (attempt 83)
+2025-07-20 14:27:00,812 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c36019ca5sm34000739f.31 - gsmtp')
+2025-07-20 14:27:05,891 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:27:05,891 - WARNING - Failed to get status from Bitaxe (attempt 84)
+2025-07-20 14:27:06,888 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5f843sm1421005173.129 - gsmtp')
+2025-07-20 14:27:11,975 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:27:11,975 - WARNING - Failed to get status from Bitaxe (attempt 85)
+2025-07-20 14:27:12,933 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca61845sm1449659173.126 - gsmtp')
+2025-07-20 14:27:18,007 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:27:18,007 - WARNING - Failed to get status from Bitaxe (attempt 86)
+2025-07-20 14:27:18,952 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca03da6sm1459026173.100 - gsmtp')
+2025-07-20 14:27:24,029 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:27:24,031 - WARNING - Failed to get status from Bitaxe (attempt 87)
+2025-07-20 14:27:25,090 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e410bdfsm178371639f.3 - gsmtp')
+2025-07-20 14:27:30,162 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:27:30,162 - WARNING - Failed to get status from Bitaxe (attempt 88)
+2025-07-20 14:27:31,055 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5aa86sm1383313173.115 - gsmtp')
+2025-07-20 14:27:36,140 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:27:36,141 - WARNING - Failed to get status from Bitaxe (attempt 89)
+2025-07-20 14:27:37,673 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29829975bsm16788335ab.53 - gsmtp')
+2025-07-20 14:27:42,793 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:27:42,793 - WARNING - Failed to get status from Bitaxe (attempt 90)
+2025-07-20 14:27:43,893 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298160cf7sm17823505ab.18 - gsmtp')
+2025-07-20 14:27:48,973 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:27:48,973 - WARNING - Failed to get status from Bitaxe (attempt 91)
+2025-07-20 14:27:49,904 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787e76sm1403673173.1 - gsmtp')
+2025-07-20 14:27:54,989 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:27:54,990 - WARNING - Failed to get status from Bitaxe (attempt 92)
+2025-07-20 14:27:55,908 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e1b2929sm179302339f.0 - gsmtp')
+2025-07-20 14:28:00,982 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:28:00,983 - WARNING - Failed to get status from Bitaxe (attempt 93)
+2025-07-20 14:28:01,872 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787e76sm1403726173.1 - gsmtp')
+2025-07-20 14:28:06,963 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:28:06,964 - WARNING - Failed to get status from Bitaxe (attempt 94)
+2025-07-20 14:28:07,889 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c804334sm1449782173.56 - gsmtp')
+2025-07-20 14:28:12,976 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:28:12,978 - WARNING - Failed to get status from Bitaxe (attempt 95)
+2025-07-20 14:28:13,909 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298178d2bsm17106165ab.26 - gsmtp')
+2025-07-20 14:28:19,031 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:28:19,031 - WARNING - Failed to get status from Bitaxe (attempt 96)
+2025-07-20 14:28:20,468 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29813265csm17556265ab.11 - gsmtp')
+2025-07-20 14:28:25,594 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:28:25,594 - WARNING - Failed to get status from Bitaxe (attempt 97)
+2025-07-20 14:28:26,869 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e459237sm175389939f.10 - gsmtp')
+2025-07-20 14:28:31,989 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:28:31,989 - WARNING - Failed to get status from Bitaxe (attempt 98)
+2025-07-20 14:28:32,916 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca05d6asm1479542173.107 - gsmtp')
+2025-07-20 14:28:37,998 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:28:38,000 - WARNING - Failed to get status from Bitaxe (attempt 99)
+2025-07-20 14:28:39,064 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c59a4f8sm1425481173.0 - gsmtp')
+2025-07-20 14:28:44,142 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:28:44,143 - WARNING - Failed to get status from Bitaxe (attempt 100)
+2025-07-20 14:28:45,120 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5e32bsm1412243173.122 - gsmtp')
+2025-07-20 14:28:50,203 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:28:50,204 - WARNING - Failed to get status from Bitaxe (attempt 101)
+2025-07-20 14:28:51,187 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29816462csm17976555ab.21 - gsmtp')
+2025-07-20 14:28:56,261 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:28:56,261 - WARNING - Failed to get status from Bitaxe (attempt 102)
+2025-07-20 14:28:57,273 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787e63sm1444409173.9 - gsmtp')
+2025-07-20 14:29:02,355 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:29:02,355 - WARNING - Failed to get status from Bitaxe (attempt 103)
+2025-07-20 14:29:03,307 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29816efc2sm18122225ab.23 - gsmtp')
+2025-07-20 14:29:08,385 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:29:08,386 - WARNING - Failed to get status from Bitaxe (attempt 104)
+2025-07-20 14:29:09,497 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787599sm1384737173.12 - gsmtp')
+2025-07-20 14:29:14,573 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:29:14,573 - WARNING - Failed to get status from Bitaxe (attempt 105)
+2025-07-20 14:29:15,570 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298131a9dsm16515505ab.1 - gsmtp')
+2025-07-20 14:29:20,658 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:29:20,658 - WARNING - Failed to get status from Bitaxe (attempt 106)
+2025-07-20 14:29:21,581 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01ac7sm1371072173.88 - gsmtp')
+2025-07-20 14:29:26,666 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:29:26,666 - WARNING - Failed to get status from Bitaxe (attempt 107)
+2025-07-20 14:29:27,704 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787010sm1372029173.5 - gsmtp')
+2025-07-20 14:29:33,131 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:29:33,132 - WARNING - Failed to get status from Bitaxe (attempt 108)
+2025-07-20 14:29:34,651 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29817c5eesm18176325ab.27 - gsmtp')
+2025-07-20 14:29:39,750 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:29:39,750 - WARNING - Failed to get status from Bitaxe (attempt 109)
+2025-07-20 14:29:41,194 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca055d0sm1418085173.102 - gsmtp')
+2025-07-20 14:29:46,294 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:29:46,294 - WARNING - Failed to get status from Bitaxe (attempt 110)
+2025-07-20 14:29:47,244 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29829975bsm16799125ab.53 - gsmtp')
+2025-07-20 14:29:52,325 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:29:52,326 - WARNING - Failed to get status from Bitaxe (attempt 111)
+2025-07-20 14:29:53,298 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e4613b5sm188809439f.11 - gsmtp')
+2025-07-20 14:29:58,378 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:29:58,378 - WARNING - Failed to get status from Bitaxe (attempt 112)
+2025-07-20 14:29:59,330 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b51d0sm1462465173.82 - gsmtp')
+2025-07-20 14:30:04,412 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:30:04,412 - WARNING - Failed to get status from Bitaxe (attempt 113)
+2025-07-20 14:30:05,353 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132facsm17816375ab.13 - gsmtp')
+2025-07-20 14:30:10,447 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:30:10,447 - WARNING - Failed to get status from Bitaxe (attempt 114)
+2025-07-20 14:30:11,349 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca6314csm1397512173.125 - gsmtp')
+2025-07-20 14:30:16,435 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:30:16,435 - WARNING - Failed to get status from Bitaxe (attempt 115)
+2025-07-20 14:30:17,380 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca055b0sm1431521173.103 - gsmtp')
+2025-07-20 14:30:22,455 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:30:22,455 - WARNING - Failed to get status from Bitaxe (attempt 116)
+2025-07-20 14:30:24,066 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e722157sm181535139f.38 - gsmtp')
+2025-07-20 14:30:29,138 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:30:29,138 - WARNING - Failed to get status from Bitaxe (attempt 117)
+2025-07-20 14:30:30,184 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca03db4sm1454731173.93 - gsmtp')
+2025-07-20 14:30:35,295 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:30:35,295 - WARNING - Failed to get status from Bitaxe (attempt 118)
+2025-07-20 14:30:36,398 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5199sm1449548173.67 - gsmtp')
+2025-07-20 14:30:41,472 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:30:41,472 - WARNING - Failed to get status from Bitaxe (attempt 119)
+2025-07-20 14:30:42,591 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298178d1esm17862725ab.24 - gsmtp')
+2025-07-20 14:30:47,679 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:30:47,679 - WARNING - Failed to get status from Bitaxe (attempt 120)
+2025-07-20 14:30:48,681 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e7624e4sm166733239f.42 - gsmtp')
+2025-07-20 14:30:53,779 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:30:53,780 - WARNING - Failed to get status from Bitaxe (attempt 121)
+2025-07-20 14:30:54,767 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7873a9sm1361665173.3 - gsmtp')
+2025-07-20 14:30:59,857 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:30:59,857 - WARNING - Failed to get status from Bitaxe (attempt 122)
+2025-07-20 14:31:00,848 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d197sm16889725ab.31 - gsmtp')
+2025-07-20 14:31:05,930 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:31:05,930 - WARNING - Failed to get status from Bitaxe (attempt 123)
+2025-07-20 14:31:06,891 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-50872b56796sm338543173.29 - gsmtp')
+2025-07-20 14:31:11,963 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:31:11,963 - WARNING - Failed to get status from Bitaxe (attempt 124)
+2025-07-20 14:31:12,996 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d489sm18143935ab.43 - gsmtp')
+2025-07-20 14:31:18,075 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:31:18,075 - WARNING - Failed to get status from Bitaxe (attempt 125)
+2025-07-20 14:31:19,001 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2981608d0sm17945045ab.20 - gsmtp')
+2025-07-20 14:31:24,083 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:31:24,084 - WARNING - Failed to get status from Bitaxe (attempt 126)
+2025-07-20 14:31:25,038 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298160cf7sm17841815ab.18 - gsmtp')
+2025-07-20 14:31:30,131 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:31:30,131 - WARNING - Failed to get status from Bitaxe (attempt 127)
+2025-07-20 14:31:31,383 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca055b0sm1431991173.103 - gsmtp')
+2025-07-20 14:31:36,464 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:31:36,464 - WARNING - Failed to get status from Bitaxe (attempt 128)
+2025-07-20 14:31:37,525 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132157sm18204895ab.12 - gsmtp')
+2025-07-20 14:31:42,603 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:31:42,603 - WARNING - Failed to get status from Bitaxe (attempt 129)
+2025-07-20 14:31:43,547 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c23517564sm107062539f.30 - gsmtp')
+2025-07-20 14:31:48,633 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:31:48,634 - WARNING - Failed to get status from Bitaxe (attempt 130)
+2025-07-20 14:31:49,577 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9bcaa6sm1467330173.81 - gsmtp')
+2025-07-20 14:31:54,659 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:31:54,659 - WARNING - Failed to get status from Bitaxe (attempt 131)
+2025-07-20 14:31:55,621 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787599sm1385691173.12 - gsmtp')
+2025-07-20 14:32:00,707 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:32:00,707 - WARNING - Failed to get status from Bitaxe (attempt 132)
+2025-07-20 14:32:01,705 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca617b5sm1439563173.128 - gsmtp')
+2025-07-20 14:32:06,785 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:32:06,785 - WARNING - Failed to get status from Bitaxe (attempt 133)
+2025-07-20 14:32:07,777 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01e78sm1426114173.91 - gsmtp')
+2025-07-20 14:32:12,880 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:32:12,880 - WARNING - Failed to get status from Bitaxe (attempt 134)
+2025-07-20 14:32:13,808 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826e963sm18457975ab.34 - gsmtp')
+2025-07-20 14:32:18,900 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:32:18,900 - WARNING - Failed to get status from Bitaxe (attempt 135)
+2025-07-20 14:32:20,008 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01ad4sm1413495173.89 - gsmtp')
+2025-07-20 14:32:25,086 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:32:25,086 - WARNING - Failed to get status from Bitaxe (attempt 136)
+2025-07-20 14:32:26,052 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29817c7f7sm18143575ab.28 - gsmtp')
+2025-07-20 14:32:31,170 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:32:31,171 - WARNING - Failed to get status from Bitaxe (attempt 137)
+2025-07-20 14:32:32,137 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca617b5sm1439759173.128 - gsmtp')
+2025-07-20 14:32:37,217 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:32:37,218 - WARNING - Failed to get status from Bitaxe (attempt 138)
+2025-07-20 14:32:38,269 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bf56dsm1466947173.33 - gsmtp')
+2025-07-20 14:32:43,349 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:32:43,349 - WARNING - Failed to get status from Bitaxe (attempt 139)
+2025-07-20 14:32:44,402 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e6ec737sm177769939f.33 - gsmtp')
+2025-07-20 14:32:49,502 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:32:49,502 - WARNING - Failed to get status from Bitaxe (attempt 140)
+2025-07-20 14:32:50,486 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982dfb19sm17775225ab.65 - gsmtp')
+2025-07-20 14:32:55,591 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:32:55,592 - WARNING - Failed to get status from Bitaxe (attempt 141)
+2025-07-20 14:32:56,550 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29829763fsm17918525ab.45 - gsmtp')
+2025-07-20 14:33:01,633 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:33:01,633 - WARNING - Failed to get status from Bitaxe (attempt 142)
+2025-07-20 14:33:02,597 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca06710sm1432468173.108 - gsmtp')
+2025-07-20 14:33:07,672 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:33:07,672 - WARNING - Failed to get status from Bitaxe (attempt 143)
+2025-07-20 14:33:08,629 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c3a09sm1420252173.39 - gsmtp')
+2025-07-20 14:33:13,703 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:33:13,703 - WARNING - Failed to get status from Bitaxe (attempt 144)
+2025-07-20 14:33:14,658 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c3ca3sm1402760173.46 - gsmtp')
+2025-07-20 14:33:19,744 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:33:19,745 - WARNING - Failed to get status from Bitaxe (attempt 145)
+2025-07-20 14:33:20,704 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5199sm1450636173.67 - gsmtp')
+2025-07-20 14:33:25,783 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:33:25,783 - WARNING - Failed to get status from Bitaxe (attempt 146)
+2025-07-20 14:33:26,784 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e4613b5sm188972539f.11 - gsmtp')
+2025-07-20 14:33:31,857 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:33:31,858 - WARNING - Failed to get status from Bitaxe (attempt 147)
+2025-07-20 14:33:32,792 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d28asm18068635ab.32 - gsmtp')
+2025-07-20 14:33:37,901 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:33:37,901 - WARNING - Failed to get status from Bitaxe (attempt 148)
+2025-07-20 14:33:38,793 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bc643sm1413759173.27 - gsmtp')
+2025-07-20 14:33:43,865 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:33:43,865 - WARNING - Failed to get status from Bitaxe (attempt 149)
+2025-07-20 14:33:44,784 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826eb0esm16963685ab.37 - gsmtp')
+2025-07-20 14:33:49,876 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:33:49,876 - WARNING - Failed to get status from Bitaxe (attempt 150)
+2025-07-20 14:33:50,911 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b51c5sm1433025173.76 - gsmtp')
+2025-07-20 14:33:55,998 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:33:55,998 - WARNING - Failed to get status from Bitaxe (attempt 151)
+2025-07-20 14:33:57,048 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787e76sm1405766173.1 - gsmtp')
+2025-07-20 14:34:02,145 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:34:02,146 - WARNING - Failed to get status from Bitaxe (attempt 152)
+2025-07-20 14:34:03,168 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c3ca3sm1403038173.46 - gsmtp')
+2025-07-20 14:34:08,250 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:34:08,250 - WARNING - Failed to get status from Bitaxe (attempt 153)
+2025-07-20 14:34:09,223 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826eb2fsm17680775ab.41 - gsmtp')
+2025-07-20 14:34:14,325 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:34:14,325 - WARNING - Failed to get status from Bitaxe (attempt 154)
+2025-07-20 14:34:15,297 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c3a09sm1420624173.39 - gsmtp')
+2025-07-20 14:34:20,373 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:34:20,373 - WARNING - Failed to get status from Bitaxe (attempt 155)
+2025-07-20 14:34:21,431 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca0338fsm1459802173.96 - gsmtp')
+2025-07-20 14:34:26,511 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:34:26,511 - WARNING - Failed to get status from Bitaxe (attempt 156)
+2025-07-20 14:34:27,618 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e6f8518sm183980339f.29 - gsmtp')
+2025-07-20 14:34:32,686 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:34:32,686 - WARNING - Failed to get status from Bitaxe (attempt 157)
+2025-07-20 14:34:33,833 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e722157sm181730739f.38 - gsmtp')
+2025-07-20 14:34:38,906 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:34:38,906 - WARNING - Failed to get status from Bitaxe (attempt 158)
+2025-07-20 14:34:40,120 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e459237sm175659539f.10 - gsmtp')
+2025-07-20 14:34:45,204 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:34:45,204 - WARNING - Failed to get status from Bitaxe (attempt 159)
+2025-07-20 14:34:46,115 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787e76sm1406054173.1 - gsmtp')
+2025-07-20 14:34:51,202 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:34:51,202 - WARNING - Failed to get status from Bitaxe (attempt 160)
+2025-07-20 14:34:52,169 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2981357d5sm16855465ab.7 - gsmtp')
+2025-07-20 14:34:57,276 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:34:57,276 - WARNING - Failed to get status from Bitaxe (attempt 161)
+2025-07-20 14:34:58,209 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826eb2fsm17683765ab.41 - gsmtp')
+2025-07-20 14:35:03,288 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:35:03,288 - WARNING - Failed to get status from Bitaxe (attempt 162)
+2025-07-20 14:35:04,215 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787e76sm1406168173.1 - gsmtp')
+2025-07-20 14:35:09,301 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:35:09,301 - WARNING - Failed to get status from Bitaxe (attempt 163)
+2025-07-20 14:35:10,272 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e410bdfsm178727639f.3 - gsmtp')
+2025-07-20 14:35:15,354 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:35:15,354 - WARNING - Failed to get status from Bitaxe (attempt 164)
+2025-07-20 14:35:16,434 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9fe035sm1423453173.87 - gsmtp')
+2025-07-20 14:35:21,517 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:35:21,517 - WARNING - Failed to get status from Bitaxe (attempt 165)
+2025-07-20 14:35:22,628 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c05a4sm1415306173.42 - gsmtp')
+2025-07-20 14:35:27,708 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:35:27,709 - WARNING - Failed to get status from Bitaxe (attempt 166)
+2025-07-20 14:35:28,752 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787756sm1379810173.18 - gsmtp')
+2025-07-20 14:35:33,834 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:35:33,834 - WARNING - Failed to get status from Bitaxe (attempt 167)
+2025-07-20 14:35:35,400 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298160723sm17789275ab.15 - gsmtp')
+2025-07-20 14:35:40,479 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:35:40,479 - WARNING - Failed to get status from Bitaxe (attempt 168)
+2025-07-20 14:35:41,560 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca62884sm1380611173.123 - gsmtp')
+2025-07-20 14:35:46,640 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:35:46,642 - WARNING - Failed to get status from Bitaxe (attempt 169)
+2025-07-20 14:35:47,597 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e772a25sm166721839f.43 - gsmtp')
+2025-07-20 14:35:52,678 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:35:52,678 - WARNING - Failed to get status from Bitaxe (attempt 170)
+2025-07-20 14:35:53,775 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29829d627sm18128695ab.52 - gsmtp')
+2025-07-20 14:35:58,848 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:35:58,848 - WARNING - Failed to get status from Bitaxe (attempt 171)
+2025-07-20 14:35:59,850 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132facsm17840295ab.13 - gsmtp')
+2025-07-20 14:36:04,931 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:36:04,932 - WARNING - Failed to get status from Bitaxe (attempt 172)
+2025-07-20 14:36:05,872 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2981608d0sm17963745ab.20 - gsmtp')
+2025-07-20 14:36:10,977 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:36:10,978 - WARNING - Failed to get status from Bitaxe (attempt 173)
+2025-07-20 14:36:11,932 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5e4c8sm1374918173.119 - gsmtp')
+2025-07-20 14:36:17,004 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:36:17,004 - WARNING - Failed to get status from Bitaxe (attempt 174)
+2025-07-20 14:36:18,086 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b51a4sm1456784173.79 - gsmtp')
+2025-07-20 14:36:23,172 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:36:23,172 - WARNING - Failed to get status from Bitaxe (attempt 175)
+2025-07-20 14:36:24,172 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298178d2bsm17140295ab.26 - gsmtp')
+2025-07-20 14:36:29,259 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:36:29,260 - WARNING - Failed to get status from Bitaxe (attempt 176)
+2025-07-20 14:36:30,303 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca02f23sm1457195173.101 - gsmtp')
+2025-07-20 14:36:35,406 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:36:35,407 - WARNING - Failed to get status from Bitaxe (attempt 177)
+2025-07-20 14:36:36,482 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982d271bsm16966355ab.58 - gsmtp')
+2025-07-20 14:36:41,595 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:36:41,596 - WARNING - Failed to get status from Bitaxe (attempt 178)
+2025-07-20 14:36:42,528 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca05d6asm1482619173.107 - gsmtp')
+2025-07-20 14:36:47,622 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:36:47,623 - WARNING - Failed to get status from Bitaxe (attempt 179)
+2025-07-20 14:36:48,669 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298178d1esm17888015ab.24 - gsmtp')
+2025-07-20 14:36:53,797 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:36:53,798 - WARNING - Failed to get status from Bitaxe (attempt 180)
+2025-07-20 14:36:54,924 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29817ca1fsm18201205ab.29 - gsmtp')
+2025-07-20 14:36:59,410 - INFO - Monitoring stopped
+2025-07-20 14:36:59,412 - INFO - Database connection closed
+2025-07-20 14:36:59,412 - INFO - Application cleanup completed
+2025-07-20 14:36:59,463 - ERROR - Error updating connection status: invalid command name ".!frame.!label2"
+2025-07-20 14:44:05,989 - INFO - Database initialized successfully
+2025-07-20 14:44:06,860 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/settings
+2025-07-20 14:44:06,937 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/pool
+2025-07-20 14:44:06,937 - INFO - Settings loaded successfully
+2025-07-20 14:44:06,941 - INFO - Application initialized successfully
+2025-07-20 14:44:06,945 - INFO - Monitoring started
+2025-07-20 14:44:07,036 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:44:07,062 - WARNING - Failed to get status from Bitaxe (attempt 1)
+2025-07-20 14:44:12,309 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:44:12,310 - WARNING - Failed to get status from Bitaxe (attempt 2)
+2025-07-20 14:44:12,838 - INFO - Updated Bitaxe IP address to 10.0.0.175
+2025-07-20 14:44:14,357 - INFO - Configuration saved to config.json
+2025-07-20 14:44:14,358 - INFO - Configuration saved to config.json
+2025-07-20 14:44:16,319 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/frequency
+2025-07-20 14:44:16,319 - ERROR - Failed to set frequency: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/frequency
+2025-07-20 14:44:17,398 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:44:17,398 - WARNING - Failed to get status from Bitaxe (attempt 3)
+2025-07-20 14:44:17,994 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/voltage
+2025-07-20 14:44:17,994 - ERROR - Failed to set voltage: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/voltage
+2025-07-20 14:44:18,783 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826ed66sm18479185ab.35 - gsmtp')
+2025-07-20 14:44:23,855 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:44:23,855 - WARNING - Failed to get status from Bitaxe (attempt 4)
+2025-07-20 14:44:24,810 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c23517564sm107689439f.30 - gsmtp')
+2025-07-20 14:44:29,882 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:44:29,883 - WARNING - Failed to get status from Bitaxe (attempt 5)
+2025-07-20 14:44:31,145 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982d157esm18014585ab.61 - gsmtp')
+2025-07-20 14:44:36,406 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:44:36,406 - WARNING - Failed to get status from Bitaxe (attempt 6)
+2025-07-20 14:44:37,464 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e6975f4sm179235439f.23 - gsmtp')
+2025-07-20 14:44:41,070 - INFO - Configuration saved to config.json
+2025-07-20 14:44:41,071 - INFO - Configuration saved to config.json
+2025-07-20 14:44:41,073 - INFO - Configuration saved to config.json
+2025-07-20 14:44:41,074 - INFO - Configuration saved to config.json
+2025-07-20 14:44:42,218 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca055b0sm1436552173.103 - gsmtp')
+2025-07-20 14:44:42,543 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:44:42,544 - WARNING - Failed to get status from Bitaxe (attempt 7)
+2025-07-20 14:44:43,526 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298133eccsm17804905ab.3 - gsmtp')
+2025-07-20 14:44:48,599 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:44:48,600 - WARNING - Failed to get status from Bitaxe (attempt 8)
+2025-07-20 14:44:48,679 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/logs
+2025-07-20 14:44:49,762 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca040b3sm1453305173.98 - gsmtp')
+2025-07-20 14:44:54,881 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:44:54,881 - WARNING - Failed to get status from Bitaxe (attempt 9)
+2025-07-20 14:44:55,948 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c32c6ef3esm49555839f.37 - gsmtp')
+2025-07-20 14:45:01,032 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:45:01,032 - WARNING - Failed to get status from Bitaxe (attempt 10)
+2025-07-20 14:45:02,049 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e696f12sm181240539f.27 - gsmtp')
+2025-07-20 14:45:07,126 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:45:07,126 - WARNING - Failed to get status from Bitaxe (attempt 11)
+2025-07-20 14:45:08,028 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c3caesm1412819173.47 - gsmtp')
+2025-07-20 14:45:13,117 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:45:13,117 - WARNING - Failed to get status from Bitaxe (attempt 12)
+2025-07-20 14:45:14,087 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298178d2bsm17177605ab.26 - gsmtp')
+2025-07-20 14:45:19,187 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:45:19,187 - WARNING - Failed to get status from Bitaxe (attempt 13)
+2025-07-20 14:45:20,231 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29817c5eesm18248275ab.27 - gsmtp')
+2025-07-20 14:45:25,324 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:45:25,325 - WARNING - Failed to get status from Bitaxe (attempt 14)
+2025-07-20 14:45:26,360 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132facsm17883655ab.13 - gsmtp')
+2025-07-20 14:45:31,434 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:45:31,434 - WARNING - Failed to get status from Bitaxe (attempt 15)
+2025-07-20 14:45:32,626 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b51d0sm1468437173.82 - gsmtp')
+2025-07-20 14:45:37,711 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:45:37,711 - WARNING - Failed to get status from Bitaxe (attempt 16)
+2025-07-20 14:45:38,775 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982ca70csm18153285ab.59 - gsmtp')
+2025-07-20 14:45:43,858 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:45:43,859 - WARNING - Failed to get status from Bitaxe (attempt 17)
+2025-07-20 14:45:44,958 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5f843sm1427692173.129 - gsmtp')
+2025-07-20 14:45:50,034 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:45:50,035 - WARNING - Failed to get status from Bitaxe (attempt 18)
+2025-07-20 14:45:51,022 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01cf4sm1404376173.92 - gsmtp')
+2025-07-20 14:45:56,109 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:45:56,109 - WARNING - Failed to get status from Bitaxe (attempt 19)
+2025-07-20 14:45:57,078 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982ca70csm18155035ab.59 - gsmtp')
+2025-07-20 14:46:02,158 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:46:02,158 - WARNING - Failed to get status from Bitaxe (attempt 20)
+2025-07-20 14:46:03,144 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e722157sm182270039f.38 - gsmtp')
+2025-07-20 14:46:08,230 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:46:08,230 - WARNING - Failed to get status from Bitaxe (attempt 21)
+2025-07-20 14:46:09,188 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e1b2929sm180126639f.0 - gsmtp')
+2025-07-20 14:46:14,273 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:46:14,273 - WARNING - Failed to get status from Bitaxe (attempt 22)
+2025-07-20 14:46:15,368 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132157sm18271485ab.12 - gsmtp')
+2025-07-20 14:46:20,454 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:46:20,455 - WARNING - Failed to get status from Bitaxe (attempt 23)
+2025-07-20 14:46:21,665 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40fc4csm173230539f.7 - gsmtp')
+2025-07-20 14:46:26,789 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:46:26,789 - WARNING - Failed to get status from Bitaxe (attempt 24)
+2025-07-20 14:46:27,930 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982aff75sm18276525ab.54 - gsmtp')
+2025-07-20 14:46:33,012 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:46:33,012 - WARNING - Failed to get status from Bitaxe (attempt 25)
+2025-07-20 14:46:34,071 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982dfb19sm17839525ab.65 - gsmtp')
+2025-07-20 14:46:39,153 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:46:39,153 - WARNING - Failed to get status from Bitaxe (attempt 26)
+2025-07-20 14:46:40,209 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40f9efsm182575339f.1 - gsmtp')
+2025-07-20 14:46:45,300 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:46:45,300 - WARNING - Failed to get status from Bitaxe (attempt 27)
+2025-07-20 14:46:46,278 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca040b3sm1453864173.98 - gsmtp')
+2025-07-20 14:46:51,383 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:46:51,383 - WARNING - Failed to get status from Bitaxe (attempt 28)
+2025-07-20 14:46:52,411 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c05a4sm1419234173.42 - gsmtp')
+2025-07-20 14:46:57,596 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:46:57,596 - WARNING - Failed to get status from Bitaxe (attempt 29)
+2025-07-20 14:46:58,911 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d489sm18216445ab.43 - gsmtp')
+2025-07-20 14:47:04,160 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:47:04,160 - WARNING - Failed to get status from Bitaxe (attempt 30)
+2025-07-20 14:47:05,494 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298160dc4sm17691495ab.17 - gsmtp')
+2025-07-20 14:47:10,632 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:47:10,633 - WARNING - Failed to get status from Bitaxe (attempt 31)
+2025-07-20 14:47:12,218 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e71f7besm177331339f.36 - gsmtp')
+2025-07-20 14:47:17,295 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:47:17,295 - WARNING - Failed to get status from Bitaxe (attempt 32)
+2025-07-20 14:47:18,318 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982976d3sm17819515ab.47 - gsmtp')
+2025-07-20 14:47:23,476 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:47:23,476 - WARNING - Failed to get status from Bitaxe (attempt 33)
+2025-07-20 14:47:25,183 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40d2a5sm173960939f.2 - gsmtp')
+2025-07-20 14:47:30,449 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:47:30,449 - WARNING - Failed to get status from Bitaxe (attempt 34)
+2025-07-20 14:47:32,375 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c9426sm1469350173.45 - gsmtp')
+2025-07-20 14:47:37,449 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:47:37,449 - WARNING - Failed to get status from Bitaxe (attempt 35)
+2025-07-20 14:47:38,455 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298133682sm18062725ab.6 - gsmtp')
+2025-07-20 14:47:43,532 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:47:43,532 - WARNING - Failed to get status from Bitaxe (attempt 36)
+2025-07-20 14:47:44,685 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01f4dsm1442402173.90 - gsmtp')
+2025-07-20 14:47:49,779 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:47:49,780 - WARNING - Failed to get status from Bitaxe (attempt 37)
+2025-07-20 14:47:50,838 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298160dc4sm17695225ab.17 - gsmtp')
+2025-07-20 14:47:55,925 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:47:55,925 - WARNING - Failed to get status from Bitaxe (attempt 38)
+2025-07-20 14:47:57,249 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298160cf7sm17917915ab.18 - gsmtp')
+2025-07-20 14:48:02,335 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:48:02,336 - WARNING - Failed to get status from Bitaxe (attempt 39)
+2025-07-20 14:48:03,417 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5c92sm1445790173.84 - gsmtp')
+2025-07-20 14:48:08,515 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:48:08,515 - WARNING - Failed to get status from Bitaxe (attempt 40)
+2025-07-20 14:48:09,515 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01f4dsm1442542173.90 - gsmtp')
+2025-07-20 14:48:14,599 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:48:14,599 - WARNING - Failed to get status from Bitaxe (attempt 41)
+2025-07-20 14:48:15,655 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5b39asm1409821173.114 - gsmtp')
+2025-07-20 14:48:20,740 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:48:20,740 - WARNING - Failed to get status from Bitaxe (attempt 42)
+2025-07-20 14:48:21,786 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca03187sm1456776173.95 - gsmtp')
+2025-07-20 14:48:26,860 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:48:26,860 - WARNING - Failed to get status from Bitaxe (attempt 43)
+2025-07-20 14:48:28,102 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982976d3sm17825585ab.47 - gsmtp')
+2025-07-20 14:48:38,623 - INFO - Database initialized successfully
+2025-07-20 14:48:39,465 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/settings
+2025-07-20 14:48:39,533 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/pool
+2025-07-20 14:48:39,533 - INFO - Settings loaded successfully
+2025-07-20 14:48:39,536 - INFO - Application initialized successfully
+2025-07-20 14:48:39,539 - INFO - Monitoring started
+2025-07-20 14:48:39,628 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:48:39,628 - WARNING - Failed to get status from Bitaxe (attempt 1)
+2025-07-20 14:48:44,870 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:48:44,870 - WARNING - Failed to get status from Bitaxe (attempt 2)
+2025-07-20 14:48:49,945 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:48:49,946 - WARNING - Failed to get status from Bitaxe (attempt 3)
+2025-07-20 14:48:50,907 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5cb5sm1460600173.72 - gsmtp')
+2025-07-20 14:48:55,983 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:48:55,983 - WARNING - Failed to get status from Bitaxe (attempt 4)
+2025-07-20 14:48:56,943 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e410bdfsm179377039f.3 - gsmtp')
+2025-07-20 14:49:02,021 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:49:02,022 - WARNING - Failed to get status from Bitaxe (attempt 5)
+2025-07-20 14:49:03,107 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298133d14sm18135375ab.10 - gsmtp')
+2025-07-20 14:49:08,178 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:49:08,178 - WARNING - Failed to get status from Bitaxe (attempt 6)
+2025-07-20 14:49:09,413 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29829975bsm16881335ab.53 - gsmtp')
+2025-07-20 14:49:14,515 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:49:14,515 - WARNING - Failed to get status from Bitaxe (attempt 7)
+2025-07-20 14:49:15,539 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca040b3sm1454670173.98 - gsmtp')
+2025-07-20 14:49:20,626 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:49:20,626 - WARNING - Failed to get status from Bitaxe (attempt 8)
+2025-07-20 14:49:21,734 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2a86bb755sm7996465ab.57 - gsmtp')
+2025-07-20 14:49:26,810 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:49:26,810 - WARNING - Failed to get status from Bitaxe (attempt 9)
+2025-07-20 14:49:27,858 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c4359sm1415236173.41 - gsmtp')
+2025-07-20 14:49:32,995 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:49:32,995 - WARNING - Failed to get status from Bitaxe (attempt 10)
+2025-07-20 14:49:34,053 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298297ff8sm17860255ab.51 - gsmtp')
+2025-07-20 14:49:39,294 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:49:39,295 - WARNING - Failed to get status from Bitaxe (attempt 11)
+2025-07-20 14:49:40,369 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40ef6dsm171092939f.5 - gsmtp')
+2025-07-20 14:49:45,448 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:49:45,448 - WARNING - Failed to get status from Bitaxe (attempt 12)
+2025-07-20 14:49:46,416 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298297ff8sm17861165ab.51 - gsmtp')
+2025-07-20 14:49:51,496 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:49:51,497 - WARNING - Failed to get status from Bitaxe (attempt 13)
+2025-07-20 14:49:52,440 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29817885fsm18316755ab.25 - gsmtp')
+2025-07-20 14:49:57,518 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:49:57,519 - WARNING - Failed to get status from Bitaxe (attempt 14)
+2025-07-20 14:49:58,611 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5aa86sm1390821173.115 - gsmtp')
+2025-07-20 14:50:03,682 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:50:03,683 - WARNING - Failed to get status from Bitaxe (attempt 15)
+2025-07-20 14:50:04,679 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982e1614sm18030425ab.66 - gsmtp')
+2025-07-20 14:50:09,783 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:50:09,783 - WARNING - Failed to get status from Bitaxe (attempt 16)
+2025-07-20 14:50:10,757 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bc643sm1419348173.27 - gsmtp')
+2025-07-20 14:50:15,844 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:50:15,844 - WARNING - Failed to get status from Bitaxe (attempt 17)
+2025-07-20 14:50:16,798 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c786b45sm1453581173.17 - gsmtp')
+2025-07-20 14:50:21,896 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:50:21,896 - WARNING - Failed to get status from Bitaxe (attempt 18)
+2025-07-20 14:50:22,908 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132facsm17908575ab.13 - gsmtp')
+2025-07-20 14:50:27,997 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:50:27,997 - WARNING - Failed to get status from Bitaxe (attempt 19)
+2025-07-20 14:50:29,037 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e6988a3sm185122039f.25 - gsmtp')
+2025-07-20 14:50:34,112 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:50:34,113 - WARNING - Failed to get status from Bitaxe (attempt 20)
+2025-07-20 14:50:35,226 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826e1cdsm18069125ab.38 - gsmtp')
+2025-07-20 14:50:40,342 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:50:40,343 - WARNING - Failed to get status from Bitaxe (attempt 21)
+2025-07-20 14:50:41,256 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca617b5sm1446042173.128 - gsmtp')
+2025-07-20 14:50:46,361 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:50:46,393 - WARNING - Failed to get status from Bitaxe (attempt 22)
+2025-07-20 14:50:47,396 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca0442fsm1435753173.104 - gsmtp')
+2025-07-20 14:50:52,492 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:50:52,492 - WARNING - Failed to get status from Bitaxe (attempt 23)
+2025-07-20 14:50:53,475 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2a86bb755sm8003305ab.57 - gsmtp')
+2025-07-20 14:50:58,562 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:50:58,563 - WARNING - Failed to get status from Bitaxe (attempt 24)
+2025-07-20 14:50:59,518 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982981a1sm16622775ab.50 - gsmtp')
+2025-07-20 14:51:04,594 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:51:04,595 - WARNING - Failed to get status from Bitaxe (attempt 25)
+2025-07-20 14:51:05,544 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5884sm1446580173.83 - gsmtp')
+2025-07-20 14:51:10,645 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:51:10,645 - WARNING - Failed to get status from Bitaxe (attempt 26)
+2025-07-20 14:51:11,630 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298166926sm18185555ab.22 - gsmtp')
+2025-07-20 14:51:16,723 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:51:16,724 - WARNING - Failed to get status from Bitaxe (attempt 27)
+2025-07-20 14:51:17,674 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e6ec737sm178633539f.33 - gsmtp')
+2025-07-20 14:51:22,753 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:51:22,753 - WARNING - Failed to get status from Bitaxe (attempt 28)
+2025-07-20 14:51:23,682 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c786b2fsm1417383173.16 - gsmtp')
+2025-07-20 14:51:28,771 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:51:28,772 - WARNING - Failed to get status from Bitaxe (attempt 29)
+2025-07-20 14:51:29,783 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c788709sm1426409173.4 - gsmtp')
+2025-07-20 14:51:34,863 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:51:34,863 - WARNING - Failed to get status from Bitaxe (attempt 30)
+2025-07-20 14:51:35,902 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca06fdfsm1448814173.109 - gsmtp')
+2025-07-20 14:51:40,979 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:51:40,979 - WARNING - Failed to get status from Bitaxe (attempt 31)
+2025-07-20 14:51:42,048 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982d157esm18049585ab.61 - gsmtp')
+2025-07-20 14:51:47,148 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:51:47,148 - WARNING - Failed to get status from Bitaxe (attempt 32)
+2025-07-20 14:51:48,338 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c801ff8sm1416381173.55 - gsmtp')
+2025-07-20 14:51:53,412 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:51:53,412 - WARNING - Failed to get status from Bitaxe (attempt 33)
+2025-07-20 14:51:54,353 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982e6770sm18032725ab.68 - gsmtp')
+2025-07-20 14:51:59,429 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:51:59,429 - WARNING - Failed to get status from Bitaxe (attempt 34)
+2025-07-20 14:52:00,411 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298297ff8sm17871645ab.51 - gsmtp')
+2025-07-20 14:52:05,488 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:52:05,488 - WARNING - Failed to get status from Bitaxe (attempt 35)
+2025-07-20 14:52:06,392 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca0316fsm1464203173.99 - gsmtp')
+2025-07-20 14:52:11,469 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:52:11,469 - WARNING - Failed to get status from Bitaxe (attempt 36)
+2025-07-20 14:52:12,440 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982976d3sm17843395ab.47 - gsmtp')
+2025-07-20 14:52:17,525 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:52:17,525 - WARNING - Failed to get status from Bitaxe (attempt 37)
+2025-07-20 14:52:18,530 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c3ca3sm1409022173.46 - gsmtp')
+2025-07-20 14:52:23,606 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:52:23,606 - WARNING - Failed to get status from Bitaxe (attempt 38)
+2025-07-20 14:52:24,574 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b4e3fsm1445080173.68 - gsmtp')
+2025-07-20 14:52:29,659 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:52:29,659 - WARNING - Failed to get status from Bitaxe (attempt 39)
+2025-07-20 14:52:30,667 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787b44sm1412504173.19 - gsmtp')
+2025-07-20 14:52:35,756 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:52:35,757 - WARNING - Failed to get status from Bitaxe (attempt 40)
+2025-07-20 14:52:36,700 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d45esm18247385ab.36 - gsmtp')
+2025-07-20 14:52:41,781 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:52:41,781 - WARNING - Failed to get status from Bitaxe (attempt 41)
+2025-07-20 14:52:42,794 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e699fe9sm180285739f.21 - gsmtp')
+2025-07-20 14:52:48,223 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:52:48,223 - WARNING - Failed to get status from Bitaxe (attempt 42)
+2025-07-20 14:52:49,250 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5884sm1447169173.83 - gsmtp')
+2025-07-20 14:52:54,330 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:52:54,330 - WARNING - Failed to get status from Bitaxe (attempt 43)
+2025-07-20 14:52:55,342 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5e34esm1460329173.120 - gsmtp')
+2025-07-20 14:53:00,427 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:53:00,427 - WARNING - Failed to get status from Bitaxe (attempt 44)
+2025-07-20 14:53:01,371 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c788709sm1426944173.4 - gsmtp')
+2025-07-20 14:53:09,568 - INFO - Database initialized successfully
+2025-07-20 14:53:10,390 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/settings
+2025-07-20 14:53:10,465 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/pool
+2025-07-20 14:53:10,466 - INFO - Settings loaded successfully
+2025-07-20 14:53:10,469 - INFO - Application initialized successfully
+2025-07-20 14:53:10,474 - INFO - Monitoring started
+2025-07-20 14:53:10,556 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:53:10,556 - WARNING - Failed to get status from Bitaxe (attempt 1)
+2025-07-20 14:53:15,651 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:53:15,651 - WARNING - Failed to get status from Bitaxe (attempt 2)
+2025-07-20 14:53:20,801 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:53:20,802 - WARNING - Failed to get status from Bitaxe (attempt 3)
+2025-07-20 14:53:21,858 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c36019ca5sm35009739f.31 - gsmtp')
+2025-07-20 14:53:26,946 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:53:26,946 - WARNING - Failed to get status from Bitaxe (attempt 4)
+2025-07-20 14:53:27,960 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29829d627sm18215315ab.52 - gsmtp')
+2025-07-20 14:53:33,075 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:53:33,076 - WARNING - Failed to get status from Bitaxe (attempt 5)
+2025-07-20 14:53:34,036 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40ef6dsm171262339f.5 - gsmtp')
+2025-07-20 14:53:39,137 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:53:39,137 - WARNING - Failed to get status from Bitaxe (attempt 6)
+2025-07-20 14:53:40,239 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca055d0sm1426195173.102 - gsmtp')
+2025-07-20 14:53:45,322 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:53:45,322 - WARNING - Failed to get status from Bitaxe (attempt 7)
+2025-07-20 14:53:46,317 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298178d1esm17972555ab.24 - gsmtp')
+2025-07-20 14:53:51,452 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:53:51,453 - WARNING - Failed to get status from Bitaxe (attempt 8)
+2025-07-20 14:53:52,445 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5a41fsm1389374173.111 - gsmtp')
+2025-07-20 14:53:57,536 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:53:57,537 - WARNING - Failed to get status from Bitaxe (attempt 9)
+2025-07-20 14:53:58,506 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5f006sm1394360173.124 - gsmtp')
+2025-07-20 14:54:03,604 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:54:03,605 - WARNING - Failed to get status from Bitaxe (attempt 10)
+2025-07-20 14:54:04,653 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01ad4sm1420800173.89 - gsmtp')
+2025-07-20 14:54:10,053 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:54:10,053 - WARNING - Failed to get status from Bitaxe (attempt 11)
+2025-07-20 14:54:11,045 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bfa5esm1431419173.44 - gsmtp')
+2025-07-20 14:54:16,313 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:54:16,313 - WARNING - Failed to get status from Bitaxe (attempt 12)
+2025-07-20 14:54:17,349 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bf931sm1455108173.43 - gsmtp')
+2025-07-20 14:54:22,449 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:54:22,449 - WARNING - Failed to get status from Bitaxe (attempt 13)
+2025-07-20 14:54:23,423 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-50851a98ca0sm1259969173.127 - gsmtp')
+2025-07-20 14:54:28,495 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:54:28,495 - WARNING - Failed to get status from Bitaxe (attempt 14)
+2025-07-20 14:54:29,458 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132facsm17927815ab.13 - gsmtp')
+2025-07-20 14:54:34,530 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:54:34,531 - WARNING - Failed to get status from Bitaxe (attempt 15)
+2025-07-20 14:54:35,487 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c32c6ef3esm50019939f.37 - gsmtp')
+2025-07-20 14:54:40,571 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:54:40,572 - WARNING - Failed to get status from Bitaxe (attempt 16)
+2025-07-20 14:54:41,572 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c786ea1sm1387257173.10 - gsmtp')
+2025-07-20 14:54:46,670 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:54:46,671 - WARNING - Failed to get status from Bitaxe (attempt 17)
+2025-07-20 14:54:47,793 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c804334sm1459342173.56 - gsmtp')
+2025-07-20 14:54:52,880 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:54:52,880 - WARNING - Failed to get status from Bitaxe (attempt 18)
+2025-07-20 14:54:53,808 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bee65sm1446691173.30 - gsmtp')
+2025-07-20 14:54:59,004 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:54:59,004 - WARNING - Failed to get status from Bitaxe (attempt 19)
+2025-07-20 14:55:00,568 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29813368dsm17120085ab.2 - gsmtp')
+2025-07-20 14:55:05,653 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:55:05,653 - WARNING - Failed to get status from Bitaxe (attempt 20)
+2025-07-20 14:55:06,573 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5d1bsm1451132173.80 - gsmtp')
+2025-07-20 14:55:11,669 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:55:11,669 - WARNING - Failed to get status from Bitaxe (attempt 21)
+2025-07-20 14:55:12,661 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca0a6cfsm1417028173.106 - gsmtp')
+2025-07-20 14:55:17,741 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:55:17,741 - WARNING - Failed to get status from Bitaxe (attempt 22)
+2025-07-20 14:55:18,704 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e4c0b99sm191793439f.19 - gsmtp')
+2025-07-20 14:55:23,783 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:55:23,783 - WARNING - Failed to get status from Bitaxe (attempt 23)
+2025-07-20 14:55:24,899 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132162sm17815355ab.8 - gsmtp')
+2025-07-20 14:55:30,017 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:55:30,017 - WARNING - Failed to get status from Bitaxe (attempt 24)
+2025-07-20 14:55:30,971 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826ec36sm17744365ab.39 - gsmtp')
+2025-07-20 14:55:37,082 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:55:37,083 - WARNING - Failed to get status from Bitaxe (attempt 25)
+2025-07-20 14:55:38,163 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bf562sm1457386173.32 - gsmtp')
+2025-07-20 14:55:43,248 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:55:43,248 - WARNING - Failed to get status from Bitaxe (attempt 26)
+2025-07-20 14:55:44,228 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787b1dsm1423206173.13 - gsmtp')
+2025-07-20 14:55:49,340 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:55:49,366 - WARNING - Failed to get status from Bitaxe (attempt 27)
+2025-07-20 14:55:50,345 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bfab0sm1385339173.40 - gsmtp')
+2025-07-20 14:55:55,459 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:55:55,459 - WARNING - Failed to get status from Bitaxe (attempt 28)
+2025-07-20 14:55:56,437 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e46899asm166906339f.16 - gsmtp')
+2025-07-20 14:56:01,545 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:56:01,545 - WARNING - Failed to get status from Bitaxe (attempt 29)
+2025-07-20 14:56:02,496 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c32c6ef3esm50076639f.37 - gsmtp')
+2025-07-20 14:56:07,585 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:56:07,586 - WARNING - Failed to get status from Bitaxe (attempt 30)
+2025-07-20 14:56:09,118 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982d14f8sm17839905ab.62 - gsmtp')
+2025-07-20 14:56:14,205 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:56:14,205 - WARNING - Failed to get status from Bitaxe (attempt 31)
+2025-07-20 14:56:15,235 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826e1cdsm18095885ab.38 - gsmtp')
+2025-07-20 14:56:20,332 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:56:20,333 - WARNING - Failed to get status from Bitaxe (attempt 32)
+2025-07-20 14:56:21,286 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01f4dsm1445438173.90 - gsmtp')
+2025-07-20 14:56:26,360 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:56:26,361 - WARNING - Failed to get status from Bitaxe (attempt 33)
+2025-07-20 14:56:27,313 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29813265csm17687155ab.11 - gsmtp')
+2025-07-20 14:56:32,390 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:56:32,390 - WARNING - Failed to get status from Bitaxe (attempt 34)
+2025-07-20 14:56:33,591 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca03db4sm1464105173.93 - gsmtp')
+2025-07-20 14:56:38,799 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:56:38,799 - WARNING - Failed to get status from Bitaxe (attempt 35)
+2025-07-20 14:56:39,770 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b7c6fsm1446555173.60 - gsmtp')
+2025-07-20 14:56:44,855 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:56:44,855 - WARNING - Failed to get status from Bitaxe (attempt 36)
+2025-07-20 14:56:45,802 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e410bdfsm179729139f.3 - gsmtp')
+2025-07-20 14:56:50,891 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:56:50,891 - WARNING - Failed to get status from Bitaxe (attempt 37)
+2025-07-20 14:56:51,873 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132157sm18325655ab.12 - gsmtp')
+2025-07-20 14:56:56,960 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:56:56,961 - WARNING - Failed to get status from Bitaxe (attempt 38)
+2025-07-20 14:56:57,889 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e699ff5sm174455939f.22 - gsmtp')
+2025-07-20 14:57:02,975 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:57:02,975 - WARNING - Failed to get status from Bitaxe (attempt 39)
+2025-07-20 14:57:03,888 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bee89sm1436059173.31 - gsmtp')
+2025-07-20 14:57:08,970 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:57:08,970 - WARNING - Failed to get status from Bitaxe (attempt 40)
+2025-07-20 14:57:09,933 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7f14dasm1376936173.53 - gsmtp')
+2025-07-20 14:57:15,005 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:57:15,005 - WARNING - Failed to get status from Bitaxe (attempt 41)
+2025-07-20 14:57:16,014 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787b1dsm1423764173.13 - gsmtp')
+2025-07-20 14:57:21,097 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:57:21,097 - WARNING - Failed to get status from Bitaxe (attempt 42)
+2025-07-20 14:57:22,105 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5d73asm1393019173.116 - gsmtp')
+2025-07-20 14:57:27,178 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:57:27,178 - WARNING - Failed to get status from Bitaxe (attempt 43)
+2025-07-20 14:57:28,133 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298297d04sm18492095ab.48 - gsmtp')
+2025-07-20 14:57:33,231 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:57:33,232 - WARNING - Failed to get status from Bitaxe (attempt 44)
+2025-07-20 14:57:34,179 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b39f9sm1415099173.71 - gsmtp')
+2025-07-20 14:57:39,269 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:57:39,269 - WARNING - Failed to get status from Bitaxe (attempt 45)
+2025-07-20 14:57:40,289 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-50860db1c2fsm815338173.48 - gsmtp')
+2025-07-20 14:57:45,395 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:57:45,397 - WARNING - Failed to get status from Bitaxe (attempt 46)
+2025-07-20 14:57:46,464 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b3a06sm1439137173.66 - gsmtp')
+2025-07-20 14:57:51,542 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:57:51,542 - WARNING - Failed to get status from Bitaxe (attempt 47)
+2025-07-20 14:57:52,611 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982981a1sm16652265ab.50 - gsmtp')
+2025-07-20 14:57:57,698 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:57:57,698 - WARNING - Failed to get status from Bitaxe (attempt 48)
+2025-07-20 14:57:58,687 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e6975ffsm186912239f.20 - gsmtp')
+2025-07-20 14:58:03,781 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:58:03,781 - WARNING - Failed to get status from Bitaxe (attempt 49)
+2025-07-20 14:58:04,764 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40fc4csm173753739f.7 - gsmtp')
+2025-07-20 14:58:09,837 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:58:09,838 - WARNING - Failed to get status from Bitaxe (attempt 50)
+2025-07-20 14:58:10,755 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d28asm18185045ab.32 - gsmtp')
+2025-07-20 14:58:15,832 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:58:15,833 - WARNING - Failed to get status from Bitaxe (attempt 51)
+2025-07-20 14:58:16,856 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca02f23sm1465036173.101 - gsmtp')
+2025-07-20 14:58:21,948 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:58:21,954 - WARNING - Failed to get status from Bitaxe (attempt 52)
+2025-07-20 14:58:23,099 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bf66esm1463096173.35 - gsmtp')
+2025-07-20 14:58:28,218 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:58:28,218 - WARNING - Failed to get status from Bitaxe (attempt 53)
+2025-07-20 14:58:29,169 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826ec36sm17758745ab.39 - gsmtp')
+2025-07-20 14:58:34,258 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:58:34,258 - WARNING - Failed to get status from Bitaxe (attempt 54)
+2025-07-20 14:58:35,254 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29eb597f5sm12758155ab.46 - gsmtp')
+2025-07-20 14:58:40,334 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:58:40,334 - WARNING - Failed to get status from Bitaxe (attempt 55)
+2025-07-20 14:58:41,423 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982d1f28sm17845155ab.63 - gsmtp')
+2025-07-20 14:58:46,500 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:58:46,500 - WARNING - Failed to get status from Bitaxe (attempt 56)
+2025-07-20 14:58:47,472 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826eb0esm17072105ab.37 - gsmtp')
+2025-07-20 14:58:52,544 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:58:52,544 - WARNING - Failed to get status from Bitaxe (attempt 57)
+2025-07-20 14:58:53,636 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bee65sm1448121173.30 - gsmtp')
+2025-07-20 14:58:58,719 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:58:58,719 - WARNING - Failed to get status from Bitaxe (attempt 58)
+2025-07-20 14:58:59,687 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982d271bsm17066315ab.58 - gsmtp')
+2025-07-20 14:59:04,797 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:59:04,797 - WARNING - Failed to get status from Bitaxe (attempt 59)
+2025-07-20 14:59:05,751 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9bcaa6sm1477141173.81 - gsmtp')
+2025-07-20 14:59:10,831 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:59:10,831 - WARNING - Failed to get status from Bitaxe (attempt 60)
+2025-07-20 14:59:11,788 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29813368dsm17139125ab.2 - gsmtp')
+2025-07-20 14:59:16,864 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:59:16,864 - WARNING - Failed to get status from Bitaxe (attempt 61)
+2025-07-20 14:59:17,832 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29816021asm17912655ab.16 - gsmtp')
+2025-07-20 14:59:22,946 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:59:22,946 - WARNING - Failed to get status from Bitaxe (attempt 62)
+2025-07-20 14:59:23,854 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982976d3sm17878415ab.47 - gsmtp')
+2025-07-20 14:59:28,937 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:59:28,937 - WARNING - Failed to get status from Bitaxe (attempt 63)
+2025-07-20 14:59:29,875 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e6ec737sm179000139f.33 - gsmtp')
+2025-07-20 14:59:34,959 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:59:34,959 - WARNING - Failed to get status from Bitaxe (attempt 64)
+2025-07-20 14:59:35,918 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d28asm18192325ab.32 - gsmtp')
+2025-07-20 14:59:40,998 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:59:40,998 - WARNING - Failed to get status from Bitaxe (attempt 65)
+2025-07-20 14:59:41,961 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e6f8518sm185202539f.29 - gsmtp')
+2025-07-20 14:59:47,270 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:59:47,271 - WARNING - Failed to get status from Bitaxe (attempt 66)
+2025-07-20 14:59:48,484 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b51a4sm1465202173.79 - gsmtp')
+2025-07-20 14:59:53,573 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:59:53,573 - WARNING - Failed to get status from Bitaxe (attempt 67)
+2025-07-20 14:59:54,501 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d28asm18194075ab.32 - gsmtp')
+2025-07-20 14:59:59,580 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 14:59:59,580 - WARNING - Failed to get status from Bitaxe (attempt 68)
+2025-07-20 15:00:00,551 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c786c6asm1417448173.25 - gsmtp')
+2025-07-20 15:00:05,727 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:00:05,727 - WARNING - Failed to get status from Bitaxe (attempt 69)
+2025-07-20 15:00:06,725 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c9426sm1473768173.45 - gsmtp')
+2025-07-20 15:00:11,811 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:00:11,811 - WARNING - Failed to get status from Bitaxe (attempt 70)
+2025-07-20 15:00:12,813 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b58a6sm1437354173.74 - gsmtp')
+2025-07-20 15:00:17,943 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:00:17,943 - WARNING - Failed to get status from Bitaxe (attempt 71)
+2025-07-20 15:00:18,847 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982d157esm18090545ab.61 - gsmtp')
+2025-07-20 15:00:23,923 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:00:23,923 - WARNING - Failed to get status from Bitaxe (attempt 72)
+2025-07-20 15:00:24,876 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787c18sm1424468173.11 - gsmtp')
+2025-07-20 15:00:29,977 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:00:29,977 - WARNING - Failed to get status from Bitaxe (attempt 73)
+2025-07-20 15:00:30,941 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298133682sm18124115ab.6 - gsmtp')
+2025-07-20 15:00:36,012 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:00:36,012 - WARNING - Failed to get status from Bitaxe (attempt 74)
+2025-07-20 15:00:36,915 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5d10sm1462035173.69 - gsmtp')
+2025-07-20 15:00:42,001 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:00:42,001 - WARNING - Failed to get status from Bitaxe (attempt 75)
+2025-07-20 15:00:43,021 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132facsm17959815ab.13 - gsmtp')
+2025-07-20 15:00:48,104 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:00:48,104 - WARNING - Failed to get status from Bitaxe (attempt 76)
+2025-07-20 15:00:49,510 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787b1dsm1424963173.13 - gsmtp')
+2025-07-20 15:00:54,668 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:00:54,668 - WARNING - Failed to get status from Bitaxe (attempt 77)
+2025-07-20 15:00:55,655 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298133682sm18126785ab.6 - gsmtp')
+2025-07-20 15:01:00,758 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:01:00,758 - WARNING - Failed to get status from Bitaxe (attempt 78)
+2025-07-20 15:01:01,781 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982ccbbcsm18167355ab.60 - gsmtp')
+2025-07-20 15:01:06,858 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:01:06,858 - WARNING - Failed to get status from Bitaxe (attempt 79)
+2025-07-20 15:01:07,837 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29817c5eesm18329275ab.27 - gsmtp')
+2025-07-20 15:01:12,971 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:01:12,971 - WARNING - Failed to get status from Bitaxe (attempt 80)
+2025-07-20 15:01:13,939 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40f59esm179115039f.8 - gsmtp')
+2025-07-20 15:01:19,012 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:01:19,012 - WARNING - Failed to get status from Bitaxe (attempt 81)
+2025-07-20 15:01:19,969 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826eb0esm17085855ab.37 - gsmtp')
+2025-07-20 15:01:25,072 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:01:25,072 - WARNING - Failed to get status from Bitaxe (attempt 82)
+2025-07-20 15:01:26,061 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e722157sm182968439f.38 - gsmtp')
+2025-07-20 15:01:31,168 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:01:31,168 - WARNING - Failed to get status from Bitaxe (attempt 83)
+2025-07-20 15:01:32,149 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bee65sm1448995173.30 - gsmtp')
+2025-07-20 15:01:37,224 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:01:37,224 - WARNING - Failed to get status from Bitaxe (attempt 84)
+2025-07-20 15:01:38,186 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c788062sm1444650173.24 - gsmtp')
+2025-07-20 15:01:43,265 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:01:43,265 - WARNING - Failed to get status from Bitaxe (attempt 85)
+2025-07-20 15:01:44,237 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bfab0sm1387294173.40 - gsmtp')
+2025-07-20 15:01:49,327 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:01:49,328 - WARNING - Failed to get status from Bitaxe (attempt 86)
+2025-07-20 15:01:50,298 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca6050bsm1453220173.121 - gsmtp')
+2025-07-20 15:01:55,377 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:01:55,377 - WARNING - Failed to get status from Bitaxe (attempt 87)
+2025-07-20 15:01:56,339 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29eb597f5sm12776485ab.46 - gsmtp')
+2025-07-20 15:02:01,421 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:02:01,422 - WARNING - Failed to get status from Bitaxe (attempt 88)
+2025-07-20 15:02:02,370 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29829d627sm18260535ab.52 - gsmtp')
+2025-07-20 15:02:07,453 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:02:07,453 - WARNING - Failed to get status from Bitaxe (attempt 89)
+2025-07-20 15:02:08,439 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5f006sm1397282173.124 - gsmtp')
+2025-07-20 15:02:13,520 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:02:13,520 - WARNING - Failed to get status from Bitaxe (attempt 90)
+2025-07-20 15:02:14,489 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298133682sm18134485ab.6 - gsmtp')
+2025-07-20 15:02:19,571 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:02:19,572 - WARNING - Failed to get status from Bitaxe (attempt 91)
+2025-07-20 15:02:20,625 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29817c7f7sm18291075ab.28 - gsmtp')
+2025-07-20 15:02:25,708 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:02:25,709 - WARNING - Failed to get status from Bitaxe (attempt 92)
+2025-07-20 15:02:26,618 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132157sm18356735ab.12 - gsmtp')
+2025-07-20 15:02:31,697 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:02:31,697 - WARNING - Failed to get status from Bitaxe (attempt 93)
+2025-07-20 15:02:32,678 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c786c6asm1418317173.25 - gsmtp')
+2025-07-20 15:02:37,762 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:02:37,763 - WARNING - Failed to get status from Bitaxe (attempt 94)
+2025-07-20 15:02:38,666 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bf76bsm1477334173.37 - gsmtp')
+2025-07-20 15:02:43,765 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:02:43,765 - WARNING - Failed to get status from Bitaxe (attempt 95)
+2025-07-20 15:02:44,692 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982d157esm18104545ab.61 - gsmtp')
+2025-07-20 15:02:49,768 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:02:49,768 - WARNING - Failed to get status from Bitaxe (attempt 96)
+2025-07-20 15:02:50,668 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d142sm17051735ab.42 - gsmtp')
+2025-07-20 15:02:55,741 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:02:55,741 - WARNING - Failed to get status from Bitaxe (attempt 97)
+2025-07-20 15:02:56,879 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787010sm1383063173.5 - gsmtp')
+2025-07-20 15:03:01,963 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:03:01,963 - WARNING - Failed to get status from Bitaxe (attempt 98)
+2025-07-20 15:03:02,862 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5ca8sm1466742173.59 - gsmtp')
+2025-07-20 15:03:07,948 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:03:07,948 - WARNING - Failed to get status from Bitaxe (attempt 99)
+2025-07-20 15:03:08,922 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca06710sm1443300173.108 - gsmtp')
+2025-07-20 15:03:14,012 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:03:14,012 - WARNING - Failed to get status from Bitaxe (attempt 100)
+2025-07-20 15:03:14,956 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca617b5sm1450476173.128 - gsmtp')
+2025-07-20 15:03:20,037 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:03:20,038 - WARNING - Failed to get status from Bitaxe (attempt 101)
+2025-07-20 15:03:21,007 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5890sm1466422173.75 - gsmtp')
+2025-07-20 15:03:22,995 - INFO - Updated Bitaxe IP address to http://10.0.0.175
+2025-07-20 15:03:25,749 - ERROR - Failed to connect to Bitaxe at http://10.0.0.175
+2025-07-20 15:03:28,324 - ERROR - Failed to connect to Bitaxe at http://10.0.0.175
+2025-07-20 15:03:28,324 - WARNING - Failed to get status from Bitaxe (attempt 102)
+2025-07-20 15:03:29,341 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c05a4sm1424902173.42 - gsmtp')
+2025-07-20 15:03:30,815 - INFO - Updated Bitaxe IP address to 10.0.0.175
+2025-07-20 15:03:32,324 - INFO - Configuration saved to config.json
+2025-07-20 15:03:32,324 - INFO - Configuration saved to config.json
+2025-07-20 15:03:34,117 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/frequency
+2025-07-20 15:03:34,117 - ERROR - Failed to set frequency: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/frequency
+2025-07-20 15:03:34,426 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:03:34,426 - WARNING - Failed to get status from Bitaxe (attempt 103)
+2025-07-20 15:03:35,372 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/voltage
+2025-07-20 15:03:35,373 - ERROR - Failed to set voltage: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/voltage
+2025-07-20 15:03:35,384 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b2952sm1373330173.64 - gsmtp')
+2025-07-20 15:03:40,466 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:03:40,466 - WARNING - Failed to get status from Bitaxe (attempt 104)
+2025-07-20 15:03:41,416 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826eb2fsm17825095ab.41 - gsmtp')
+2025-07-20 15:03:46,492 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:03:46,494 - WARNING - Failed to get status from Bitaxe (attempt 105)
+2025-07-20 15:03:47,430 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c23517564sm108596039f.30 - gsmtp')
+2025-07-20 15:03:52,516 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:03:52,516 - WARNING - Failed to get status from Bitaxe (attempt 106)
+2025-07-20 15:03:53,031 - INFO - Configuration saved to config.json
+2025-07-20 15:03:53,032 - INFO - Configuration saved to config.json
+2025-07-20 15:03:53,034 - INFO - Configuration saved to config.json
+2025-07-20 15:03:53,036 - INFO - Configuration saved to config.json
+2025-07-20 15:03:53,458 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d477sm16468835ab.33 - gsmtp')
+2025-07-20 15:03:53,932 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e46899asm167206939f.16 - gsmtp')
+2025-07-20 15:03:59,030 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:03:59,031 - WARNING - Failed to get status from Bitaxe (attempt 107)
+2025-07-20 15:04:00,182 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c788062sm1445570173.24 - gsmtp')
+2025-07-20 15:04:05,335 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:04:05,335 - WARNING - Failed to get status from Bitaxe (attempt 108)
+2025-07-20 15:04:06,860 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c05a4sm1425154173.42 - gsmtp')
+2025-07-20 15:04:11,954 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:04:11,954 - WARNING - Failed to get status from Bitaxe (attempt 109)
+2025-07-20 15:04:12,929 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826e963sm18615215ab.34 - gsmtp')
+2025-07-20 15:04:18,018 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:04:18,018 - WARNING - Failed to get status from Bitaxe (attempt 110)
+2025-07-20 15:04:18,973 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b51d0sm1475096173.82 - gsmtp')
+2025-07-20 15:04:24,066 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:04:24,066 - WARNING - Failed to get status from Bitaxe (attempt 111)
+2025-07-20 15:04:25,022 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca03a42sm1480154173.97 - gsmtp')
+2025-07-20 15:04:26,163 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/pool
+2025-07-20 15:04:26,163 - ERROR - Failed to set pool config: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/pool
+2025-07-20 15:04:30,103 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:04:30,103 - WARNING - Failed to get status from Bitaxe (attempt 112)
+2025-07-20 15:04:31,072 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5e34esm1464644173.120 - gsmtp')
+2025-07-20 15:04:36,150 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:04:36,151 - WARNING - Failed to get status from Bitaxe (attempt 113)
+2025-07-20 15:04:37,106 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e7624e4sm168155139f.42 - gsmtp')
+2025-07-20 15:04:42,187 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:04:42,187 - WARNING - Failed to get status from Bitaxe (attempt 114)
+2025-07-20 15:04:43,106 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca62884sm1390296173.123 - gsmtp')
+2025-07-20 15:04:48,181 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:04:48,181 - WARNING - Failed to get status from Bitaxe (attempt 115)
+2025-07-20 15:04:49,156 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132facsm17980295ab.13 - gsmtp')
+2025-07-20 15:04:54,234 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:04:54,234 - WARNING - Failed to get status from Bitaxe (attempt 116)
+2025-07-20 15:04:55,397 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5884sm1451550173.83 - gsmtp')
+2025-07-20 15:05:00,528 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:05:00,528 - WARNING - Failed to get status from Bitaxe (attempt 117)
+2025-07-20 15:05:02,269 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298166926sm18254425ab.22 - gsmtp')
+2025-07-20 15:05:07,373 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:05:07,374 - WARNING - Failed to get status from Bitaxe (attempt 118)
+2025-07-20 15:05:08,285 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787a7asm1390575173.14 - gsmtp')
+2025-07-20 15:05:08,990 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/frequency
+2025-07-20 15:05:08,990 - ERROR - Failed to set frequency: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/frequency
+2025-07-20 15:05:10,700 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/voltage
+2025-07-20 15:05:10,701 - ERROR - Failed to set voltage: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/voltage
+2025-07-20 15:05:13,373 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:05:13,373 - WARNING - Failed to get status from Bitaxe (attempt 119)
+2025-07-20 15:05:14,319 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9f32a6sm1457137173.85 - gsmtp')
+2025-07-20 15:05:19,397 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:05:19,397 - WARNING - Failed to get status from Bitaxe (attempt 120)
+2025-07-20 15:05:19,581 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/pool
+2025-07-20 15:05:19,581 - ERROR - Failed to set pool config: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/pool
+2025-07-20 15:05:20,302 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e69b036sm151782639f.26 - gsmtp')
+2025-07-20 15:05:25,398 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:05:25,398 - WARNING - Failed to get status from Bitaxe (attempt 121)
+2025-07-20 15:05:26,350 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29829975bsm16956585ab.53 - gsmtp')
+2025-07-20 15:05:31,455 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.175:80/api/system/status
+2025-07-20 15:05:31,456 - WARNING - Failed to get status from Bitaxe (attempt 122)
+2025-07-20 15:05:32,327 - INFO - Updated Bitaxe IP address to 10.0.0.98
+2025-07-20 15:05:32,422 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca617b5sm1451360173.128 - gsmtp')
+2025-07-20 15:05:35,873 - INFO - Configuration saved to config.json
+2025-07-20 15:05:35,875 - INFO - Configuration saved to config.json
+2025-07-20 15:05:37,497 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 15:05:37,498 - WARNING - Failed to get status from Bitaxe (attempt 123)
+2025-07-20 15:05:37,996 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/frequency
+2025-07-20 15:05:37,996 - ERROR - Failed to set frequency: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/frequency
+2025-07-20 15:05:38,446 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e1b2929sm180995139f.0 - gsmtp')
+2025-07-20 15:05:39,404 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/voltage
+2025-07-20 15:05:39,405 - ERROR - Failed to set voltage: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/voltage
+2025-07-20 15:05:41,599 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/pool
+2025-07-20 15:05:41,599 - ERROR - Failed to set pool config: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/pool
+2025-07-20 15:05:43,555 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 15:05:43,555 - WARNING - Failed to get status from Bitaxe (attempt 124)
+2025-07-20 15:05:44,471 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787887sm1479683173.26 - gsmtp')
+2025-07-20 15:05:49,481 - INFO - Monitoring stopped
+2025-07-20 15:05:49,482 - INFO - Database connection closed
+2025-07-20 15:05:49,482 - INFO - Application cleanup completed
+2025-07-20 15:07:58,995 - INFO - Database initialized successfully
+2025-07-20 15:07:59,768 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/settings
+2025-07-20 15:07:59,828 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/pool
+2025-07-20 15:07:59,828 - INFO - Settings loaded successfully
+2025-07-20 15:07:59,831 - INFO - Application initialized successfully
+2025-07-20 15:07:59,836 - INFO - Monitoring started
+2025-07-20 15:07:59,905 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 15:07:59,905 - WARNING - Failed to get status from Bitaxe (attempt 1)
+2025-07-20 15:08:05,048 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 15:08:05,048 - WARNING - Failed to get status from Bitaxe (attempt 2)
+2025-07-20 15:08:10,126 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 15:08:10,127 - WARNING - Failed to get status from Bitaxe (attempt 3)
+2025-07-20 15:08:11,141 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bf76bsm1479439173.37 - gsmtp')
+2025-07-20 15:08:15,242 - INFO - Monitoring stopped
+2025-07-20 15:08:15,243 - INFO - Database connection closed
+2025-07-20 15:08:15,243 - INFO - Application cleanup completed
+2025-07-20 15:08:15,294 - ERROR - Error updating connection status: invalid command name ".!frame.!label2"
+2025-07-20 19:12:11,629 - INFO - Database initialized successfully
+2025-07-20 19:12:12,704 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/settings
+2025-07-20 19:12:12,793 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/pool
+2025-07-20 19:12:12,794 - INFO - Settings loaded successfully
+2025-07-20 19:12:12,799 - INFO - Application initialized successfully
+2025-07-20 19:12:12,802 - INFO - Monitoring started
+2025-07-20 19:12:12,877 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:12:12,878 - WARNING - Failed to get status from Bitaxe (attempt 1)
+2025-07-20 19:12:18,156 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:12:18,156 - WARNING - Failed to get status from Bitaxe (attempt 2)
+2025-07-20 19:12:23,271 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:12:23,271 - WARNING - Failed to get status from Bitaxe (attempt 3)
+2025-07-20 19:12:24,318 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca0316fsm1560873173.99 - gsmtp')
+2025-07-20 19:12:29,424 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:12:29,425 - WARNING - Failed to get status from Bitaxe (attempt 4)
+2025-07-20 19:12:30,531 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e4613b5sm201819939f.11 - gsmtp')
+2025-07-20 19:12:35,667 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:12:35,668 - WARNING - Failed to get status from Bitaxe (attempt 5)
+2025-07-20 19:12:36,746 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca03a42sm1572351173.97 - gsmtp')
+2025-07-20 19:12:41,845 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:12:41,845 - WARNING - Failed to get status from Bitaxe (attempt 6)
+2025-07-20 19:12:42,890 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bee65sm1540072173.30 - gsmtp')
+2025-07-20 19:12:44,945 - INFO - Configuration saved to config.json
+2025-07-20 19:12:44,948 - INFO - Configuration saved to config.json
+2025-07-20 19:12:44,949 - INFO - Configuration saved to config.json
+2025-07-20 19:12:44,951 - INFO - Configuration saved to config.json
+2025-07-20 19:12:46,438 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e696931sm186068539f.28 - gsmtp')
+2025-07-20 19:12:47,978 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:12:47,978 - WARNING - Failed to get status from Bitaxe (attempt 7)
+2025-07-20 19:12:49,149 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982ccbbcsm19424185ab.60 - gsmtp')
+2025-07-20 19:12:49,797 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/frequency
+2025-07-20 19:12:49,797 - ERROR - Failed to set frequency: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/frequency
+2025-07-20 19:12:50,867 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/voltage
+2025-07-20 19:12:50,867 - ERROR - Failed to set voltage: HTTP error: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/voltage
+2025-07-20 19:12:52,664 - INFO - Updated Bitaxe IP address to 10.0.0.98
+2025-07-20 19:12:54,499 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:12:54,514 - WARNING - Failed to get status from Bitaxe (attempt 8)
+2025-07-20 19:12:55,526 - INFO - Configuration saved to config.json
+2025-07-20 19:12:55,528 - INFO - Configuration saved to config.json
+2025-07-20 19:12:56,374 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e463bebsm193665839f.14 - gsmtp')
+2025-07-20 19:13:02,898 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:13:02,899 - WARNING - Failed to get status from Bitaxe (attempt 9)
+2025-07-20 19:13:03,958 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787c18sm1512978173.11 - gsmtp')
+2025-07-20 19:13:09,057 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:13:09,058 - WARNING - Failed to get status from Bitaxe (attempt 10)
+2025-07-20 19:13:10,670 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c786b2fsm1510252173.16 - gsmtp')
+2025-07-20 19:13:15,860 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:13:15,860 - WARNING - Failed to get status from Bitaxe (attempt 11)
+2025-07-20 19:13:17,900 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e6988a3sm196804339f.25 - gsmtp')
+2025-07-20 19:13:23,011 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:13:23,011 - WARNING - Failed to get status from Bitaxe (attempt 12)
+2025-07-20 19:13:24,363 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40f9efsm194766039f.1 - gsmtp')
+2025-07-20 19:13:29,502 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:13:29,502 - WARNING - Failed to get status from Bitaxe (attempt 13)
+2025-07-20 19:13:30,727 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-50860db1c2fsm904083173.48 - gsmtp')
+2025-07-20 19:13:36,006 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:13:36,006 - WARNING - Failed to get status from Bitaxe (attempt 14)
+2025-07-20 19:13:37,590 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29bd00ec1sm17044965ab.56 - gsmtp')
+2025-07-20 19:13:42,750 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:13:42,751 - WARNING - Failed to get status from Bitaxe (attempt 15)
+2025-07-20 19:13:43,981 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca0a6cfsm1508433173.106 - gsmtp')
+2025-07-20 19:13:49,087 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:13:49,087 - WARNING - Failed to get status from Bitaxe (attempt 16)
+2025-07-20 19:13:50,253 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e464837sm180052239f.15 - gsmtp')
+2025-07-20 19:13:55,364 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:13:55,364 - WARNING - Failed to get status from Bitaxe (attempt 17)
+2025-07-20 19:13:56,524 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982ccbbcsm19429445ab.60 - gsmtp')
+2025-07-20 19:14:01,604 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:14:01,604 - WARNING - Failed to get status from Bitaxe (attempt 18)
+2025-07-20 19:14:03,289 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298297d04sm19801325ab.48 - gsmtp')
+2025-07-20 19:14:08,464 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:14:08,465 - WARNING - Failed to get status from Bitaxe (attempt 19)
+2025-07-20 19:14:10,059 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bfa69sm1479575173.36 - gsmtp')
+2025-07-20 19:14:15,492 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:14:15,493 - WARNING - Failed to get status from Bitaxe (attempt 20)
+2025-07-20 19:14:16,946 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982976d3sm19150425ab.47 - gsmtp')
+2025-07-20 19:14:22,153 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:14:22,154 - WARNING - Failed to get status from Bitaxe (attempt 21)
+2025-07-20 19:14:23,115 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca055d0sm1519420173.102 - gsmtp')
+2025-07-20 19:14:28,237 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:14:28,237 - WARNING - Failed to get status from Bitaxe (attempt 22)
+2025-07-20 19:14:29,361 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29817885fsm19656035ab.25 - gsmtp')
+2025-07-20 19:14:34,479 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:14:34,479 - WARNING - Failed to get status from Bitaxe (attempt 23)
+2025-07-20 19:14:35,568 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bce49sm1521863173.28 - gsmtp')
+2025-07-20 19:14:40,729 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:14:40,729 - WARNING - Failed to get status from Bitaxe (attempt 24)
+2025-07-20 19:14:41,818 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c786c5dsm1551911173.15 - gsmtp')
+2025-07-20 19:14:46,916 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:14:46,917 - WARNING - Failed to get status from Bitaxe (attempt 25)
+2025-07-20 19:14:48,469 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298132157sm19618085ab.12 - gsmtp')
+2025-07-20 19:14:53,576 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:14:53,576 - WARNING - Failed to get status from Bitaxe (attempt 26)
+2025-07-20 19:14:54,619 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c4359sm1509097173.41 - gsmtp')
+2025-07-20 19:14:59,726 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:14:59,726 - WARNING - Failed to get status from Bitaxe (attempt 27)
+2025-07-20 19:15:00,808 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5e34esm1556903173.120 - gsmtp')
+2025-07-20 19:15:05,977 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:15:05,977 - WARNING - Failed to get status from Bitaxe (attempt 28)
+2025-07-20 19:15:07,427 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca6183asm1485520173.130 - gsmtp')
+2025-07-20 19:15:12,533 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:15:12,533 - WARNING - Failed to get status from Bitaxe (attempt 29)
+2025-07-20 19:15:13,516 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2980485adsm19431195ab.0 - gsmtp')
+2025-07-20 19:15:18,612 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:15:18,612 - WARNING - Failed to get status from Bitaxe (attempt 30)
+2025-07-20 19:15:19,706 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c4548sm1549899173.52 - gsmtp')
+2025-07-20 19:15:24,804 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:15:24,804 - WARNING - Failed to get status from Bitaxe (attempt 31)
+2025-07-20 19:15:25,866 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca0558csm1538707173.94 - gsmtp')
+2025-07-20 19:15:30,994 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:15:30,994 - WARNING - Failed to get status from Bitaxe (attempt 32)
+2025-07-20 19:15:32,539 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b51d0sm1567768173.82 - gsmtp')
+2025-07-20 19:15:37,670 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:15:37,671 - WARNING - Failed to get status from Bitaxe (attempt 33)
+2025-07-20 19:15:38,908 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c41c4c671sm20146739f.9 - gsmtp')
+2025-07-20 19:15:44,018 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:15:44,018 - WARNING - Failed to get status from Bitaxe (attempt 34)
+2025-07-20 19:15:45,314 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01cf4sm1499141173.92 - gsmtp')
+2025-07-20 19:15:50,553 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:15:50,554 - WARNING - Failed to get status from Bitaxe (attempt 35)
+2025-07-20 19:15:52,234 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5d1bsm1545661173.80 - gsmtp')
+2025-07-20 19:15:57,455 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:15:57,455 - WARNING - Failed to get status from Bitaxe (attempt 36)
+2025-07-20 19:15:58,654 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982d14f8sm19125775ab.62 - gsmtp')
+2025-07-20 19:16:03,859 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:16:03,859 - WARNING - Failed to get status from Bitaxe (attempt 37)
+2025-07-20 19:16:04,980 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982ccbbcsm19439795ab.60 - gsmtp')
+2025-07-20 19:16:10,079 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:16:10,079 - WARNING - Failed to get status from Bitaxe (attempt 38)
+2025-07-20 19:16:11,204 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787499sm1469431173.20 - gsmtp')
+2025-07-20 19:16:16,312 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:16:16,312 - WARNING - Failed to get status from Bitaxe (attempt 39)
+2025-07-20 19:16:17,614 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c78768bsm1510985173.21 - gsmtp')
+2025-07-20 19:16:22,722 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:16:22,722 - WARNING - Failed to get status from Bitaxe (attempt 40)
+2025-07-20 19:16:23,802 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c78768bsm1511018173.21 - gsmtp')
+2025-07-20 19:16:28,968 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:16:28,968 - WARNING - Failed to get status from Bitaxe (attempt 41)
+2025-07-20 19:16:30,111 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e6f4ad6sm174576539f.32 - gsmtp')
+2025-07-20 19:16:35,205 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:16:35,205 - WARNING - Failed to get status from Bitaxe (attempt 42)
+2025-07-20 19:16:36,309 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c787b1dsm1514670173.13 - gsmtp')
+2025-07-20 19:16:41,420 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:16:41,428 - WARNING - Failed to get status from Bitaxe (attempt 43)
+2025-07-20 19:16:42,621 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29829d627sm19539955ab.52 - gsmtp')
+2025-07-20 19:16:47,741 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:16:47,741 - WARNING - Failed to get status from Bitaxe (attempt 44)
+2025-07-20 19:16:48,848 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7c9426sm1568485173.45 - gsmtp')
+2025-07-20 19:16:53,955 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:16:53,955 - WARNING - Failed to get status from Bitaxe (attempt 45)
+2025-07-20 19:16:55,040 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01ac7sm1470005173.88 - gsmtp')
+2025-07-20 19:17:00,274 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:17:00,274 - WARNING - Failed to get status from Bitaxe (attempt 46)
+2025-07-20 19:17:02,226 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29826d45esm19563805ab.36 - gsmtp')
+2025-07-20 19:17:07,365 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:17:07,367 - WARNING - Failed to get status from Bitaxe (attempt 47)
+2025-07-20 19:17:08,539 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b5890sm1559712173.75 - gsmtp')
+2025-07-20 19:17:13,782 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:17:13,782 - WARNING - Failed to get status from Bitaxe (attempt 48)
+2025-07-20 19:17:15,235 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c7bf66esm1556505173.35 - gsmtp')
+2025-07-20 19:17:20,329 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:17:20,330 - WARNING - Failed to get status from Bitaxe (attempt 49)
+2025-07-20 19:17:21,441 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40f9efsm194937739f.1 - gsmtp')
+2025-07-20 19:17:26,539 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:17:26,539 - WARNING - Failed to get status from Bitaxe (attempt 50)
+2025-07-20 19:17:27,764 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40d2a5sm185691439f.2 - gsmtp')
+2025-07-20 19:17:32,989 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:17:32,989 - WARNING - Failed to get status from Bitaxe (attempt 51)
+2025-07-20 19:17:34,116 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e29813265csm18961545ab.11 - gsmtp')
+2025-07-20 19:17:39,233 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:17:39,234 - WARNING - Failed to get status from Bitaxe (attempt 52)
+2025-07-20 19:17:40,392 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c786b2fsm1511758173.16 - gsmtp')
+2025-07-20 19:17:45,555 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:17:45,555 - WARNING - Failed to get status from Bitaxe (attempt 53)
+2025-07-20 19:17:47,441 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084c9b4e34sm1548035173.77 - gsmtp')
+2025-07-20 19:17:52,610 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:17:52,610 - WARNING - Failed to get status from Bitaxe (attempt 54)
+2025-07-20 19:17:54,135 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298160723sm19193965ab.15 - gsmtp')
+2025-07-20 19:17:55,960 - INFO - Configuration saved to config.json
+2025-07-20 19:17:55,961 - INFO - Configuration saved to config.json
+2025-07-20 19:17:55,965 - INFO - Configuration saved to config.json
+2025-07-20 19:17:55,966 - INFO - Configuration saved to config.json
+2025-07-20 19:17:57,207 - ERROR - Failed to send email: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired 8926c6da1cb9f-5084ca03da6sm1566146173.100 - gsmtp')
+2025-07-20 19:17:59,215 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:17:59,215 - WARNING - Failed to get status from Bitaxe (attempt 55)
+2025-07-20 19:18:00,324 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982e6770sm19363165ab.68 - gsmtp')
+2025-07-20 19:18:05,444 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:18:05,445 - WARNING - Failed to get status from Bitaxe (attempt 56)
+2025-07-20 19:18:06,767 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e298160cf7sm19263065ab.18 - gsmtp')
+2025-07-20 19:18:06,878 - INFO - Configuration saved to config.json
+2025-07-20 19:18:06,879 - INFO - Configuration saved to config.json
+2025-07-20 19:18:06,881 - INFO - Configuration saved to config.json
+2025-07-20 19:18:06,882 - INFO - Configuration saved to config.json
+2025-07-20 19:18:07,672 - ERROR - Failed to send email: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired e9e14a558f8ab-3e298133682sm19393195ab.6 - gsmtp')
+2025-07-20 19:18:11,949 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:18:11,950 - WARNING - Failed to get status from Bitaxe (attempt 57)
+2025-07-20 19:18:13,306 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982d271bsm18261085ab.58 - gsmtp')
+2025-07-20 19:18:18,410 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:18:18,411 - WARNING - Failed to get status from Bitaxe (attempt 58)
+2025-07-20 19:18:19,761 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca5e6ddsm1502673173.118 - gsmtp')
+2025-07-20 19:18:24,890 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:18:24,890 - WARNING - Failed to get status from Bitaxe (attempt 59)
+2025-07-20 19:18:25,996 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e40ec8csm189041239f.6 - gsmtp')
+2025-07-20 19:18:28,090 - INFO - Configuration saved to config.json
+2025-07-20 19:18:28,091 - INFO - Configuration saved to config.json
+2025-07-20 19:18:28,094 - INFO - Configuration saved to config.json
+2025-07-20 19:18:28,095 - INFO - Configuration saved to config.json
+2025-07-20 19:18:29,452 - ERROR - Failed to send email: (534, b'5.7.9 Please log in with your web browser and then try again. For more\n5.7.9 information, go to\n5.7.9  https://support.google.com/mail/?p=WebLoginRequired e9e14a558f8ab-3e29826d28asm19482285ab.32 - gsmtp')
+2025-07-20 19:18:31,131 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:18:31,131 - WARNING - Failed to get status from Bitaxe (attempt 60)
+2025-07-20 19:18:32,735 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca0316fsm1563048173.99 - gsmtp')
+2025-07-20 19:18:37,909 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:18:37,916 - WARNING - Failed to get status from Bitaxe (attempt 61)
+2025-07-20 19:18:39,295 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials 8926c6da1cb9f-5084ca01e78sm1527148173.91 - gsmtp')
+2025-07-20 19:18:44,624 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:18:44,625 - WARNING - Failed to get status from Bitaxe (attempt 62)
+2025-07-20 19:18:46,587 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials e9e14a558f8ab-3e2982db1afsm19413035ab.64 - gsmtp')
+2025-07-20 19:18:51,692 - ERROR - HTTP error from Bitaxe: 404 Client Error: Not Found for url: http://10.0.0.98:80/api/system/status
+2025-07-20 19:18:51,693 - WARNING - Failed to get status from Bitaxe (attempt 63)
+2025-07-20 19:18:52,880 - ERROR - Failed to send email: (535, b'5.7.8 Username and Password not accepted. For more information, go to\n5.7.8  https://support.google.com/mail/?p=BadCredentials ca18e2360f4ac-87c0e46e2fasm186198339f.17 - gsmtp')

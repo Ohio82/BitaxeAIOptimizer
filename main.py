@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Bitaxe Gamma 601 Mining Monitor
+Bitaxe Gamma 601 Mining Monitor By ANDREW FREEMAN
 Main entry point for the desktop application
 """
 
@@ -45,11 +45,14 @@ class BitaxeMonitorApp:
             self.root.geometry("1200x800")
             self.root.minsize(800, 600)
             
-            # Set application icon (using built-in icon)
-            try:
-                self.root.iconbitmap(default='')
-            except:
-                pass  # Icon not available, continue without it
+            # Set application icon (optional, only if you have an icon file)
+            icon_path = os.path.join(os.path.dirname(__file__), "icon.ico")
+            if os.path.exists(icon_path):
+                try:
+                    self.root.iconbitmap(default=icon_path)
+                except Exception as e:
+                    logging.warning(f"Could not set icon: {e}")
+            # else: skip setting icon
             
             # Initialize main window
             self.main_window = MainWindow(self.root, self.config, self.database)
@@ -62,8 +65,13 @@ class BitaxeMonitorApp:
             
         except Exception as e:
             logging.error(f"Failed to initialize application: {e}")
-            messagebox.showerror("Initialization Error", 
-                               f"Failed to initialize application:\n{e}")
+            # Only show messagebox if Tkinter root is initialized
+            try:
+                if self.root:
+                    messagebox.showerror("Initialization Error", 
+                                         f"Failed to initialize application:\n{e}")
+            except Exception as mb_e:
+                logging.error(f"Could not show error messagebox: {mb_e}")
             return False
     
     def run(self):
@@ -84,7 +92,11 @@ class BitaxeMonitorApp:
             logging.info("Application interrupted by user")
         except Exception as e:
             logging.error(f"Application error: {e}")
-            messagebox.showerror("Application Error", f"An error occurred: {e}")
+            try:
+                if self.root:
+                    messagebox.showerror("Application Error", f"An error occurred: {e}")
+            except Exception as mb_e:
+                logging.error(f"Could not show error messagebox: {mb_e}")
         finally:
             self.cleanup()
     
@@ -98,9 +110,15 @@ class BitaxeMonitorApp:
         """Cleanup resources"""
         self.running = False
         if self.main_window:
-            self.main_window.stop()
+            try:
+                self.main_window.stop()
+            except Exception as e:
+                logging.warning(f"Error stopping main window: {e}")
         if self.database:
-            self.database.close()
+            try:
+                self.database.close()
+            except Exception as e:
+                logging.warning(f"Error closing database: {e}")
         logging.info("Application cleanup completed")
 
 def main():
@@ -110,8 +128,12 @@ def main():
         app.run()
     except Exception as e:
         logging.error(f"Fatal error: {e}")
-        if 'app' in locals() and app.root:
-            messagebox.showerror("Fatal Error", f"A fatal error occurred: {e}")
+        # Only show messagebox if Tkinter root is initialized
+        try:
+            if 'app' in locals() and getattr(app, 'root', None):
+                messagebox.showerror("Fatal Error", f"A fatal error occurred: {e}")
+        except Exception as mb_e:
+            logging.error(f"Could not show error messagebox: {mb_e}")
         sys.exit(1)
 
 if __name__ == "__main__":
