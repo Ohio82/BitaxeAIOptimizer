@@ -14,6 +14,7 @@
 - Version information and licensing
 
 ### Files Included:
+✓ NEW BATMAN THEME - NEW PARTICLES THAT ANIMATE WHEN SHARES SUBMITTED OR REJECTED - ADDED VISUALLY APPEALING THINGS
 ✓ main.py - Source code - main entry point
 ✓ bitaxe_api.py - Source code - API module
 ✓ database.py - Source code - database module
