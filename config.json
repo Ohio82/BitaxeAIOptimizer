@@ -14,9 +14,9 @@
             "enabled": true,
             "smtp_server": "smtp.gmail.com",
             "smtp_port": 587,
-            "sender_email": "afreeman50@ivytech.edu",
-            "sender_password": "Danidru25",
-            "recipient_email": "afreeman50@ivytech.edu",
+            "sender_email": "YOUREMAIL",
+            "sender_password": "PASSWORD",
+            "recipient_email": "EMAIL",
             "alerts": {
                 "temperature_threshold": 80,
                 "hashrate_drop_percent": 20,
